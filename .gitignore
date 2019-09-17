@@ -1,4 +1,5 @@
 # Compiled Lua sources
+secret.properties
 luac.out
 
 # luarocks build files
