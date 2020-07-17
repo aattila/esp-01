@@ -52,7 +52,7 @@ void setup(void) {
       shutDown();
     }
   }
-
+  
   Serial.println(WIFI_SSID);
   Serial.print("IP address: ");
   Serial.println(WiFi.localIP());
